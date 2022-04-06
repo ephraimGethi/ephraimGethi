@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> Hallo Folks 👋</h1>
-<h3 align="center">I am a Full stack Software Developer.</h3>
+<h3 align="center">I am a Full stack software engineer.</h3>
 
 **ephraimGethi/ephraimGethi** ✨ _Quick Details_ ✨ 
 
