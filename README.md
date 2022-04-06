@@ -15,18 +15,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hallo Folks 👋</h1>
-<h3 align="center">I am a Software Engineer and Data Science Enthusiast.</h3>
+<h3 align="center">I am a Full stack Software Developer.</h3>
 
-**1Nelsonel/1Nelsonel** ✨ _Quick Details_ ✨ 
+**ephraimGethi/ephraimGethi** ✨ _Quick Details_ ✨ 
 
-- 🔭 I’m currently working on Django Python
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on NodeJS
-- 🤔 I’m looking for help with React JS
-- 💬 Ask me about Data cleaning, Exploration and Visualization.
-- 📫 How to reach me: nelsonmokoro37@gmail.com
-- 😄 Pronouns: Mr Nelson Mokoro
-- ⚡ Fun fact: Football and Music
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning NodeJS and Express JS
 <hr>
 <hr>
 
@@ -64,7 +58,7 @@ Here are some ideas to get you started:
 <br/>
 <p align="center">
         <h3> Nelson Mokoro's Contributions <h3/>
-    <a href="https://github.com/1Nelsonel/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="1Nelsonel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1Nelsonel&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/ephraimGethi/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ephraimGethi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ephraimGethi&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
 <br/>
@@ -72,10 +66,10 @@ Here are some ideas to get you started:
 
   <br/>
   
-  <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
+  <a href="https://github.com/ephraimGethi/github-readme-stats"><img alt="ephraimGethi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=1Nelsonel&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
   <br/>
    <hr>         
- <a href="https://github.com/1Nelsonel/github-readme-stats"><img alt="1Nelsonel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Nelsonel&langs_count=8&count_private=true&layout=radical&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/ephraimGethi/github-readme-stats"><img alt="ephraimGethi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephraimGethi&langs_count=8&count_private=true&layout=radical&theme=radical&hide_border=true&bg_color=0D1117" /></a>
 <p/>
    <br/>
 <hr>
@@ -83,7 +77,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<a href="https://github.com/1Nelsonel/github-readme-activity-graph"><img alt="1Nelsonel Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=1Nelsonel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ephraimGethi/github-readme-activity-graph"><img alt="ephraimGethi Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ephraimGethi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <hr>            
 <hr>
