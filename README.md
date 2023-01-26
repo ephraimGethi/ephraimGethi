@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">I am a Full stack software engineer.</h3>
+<h3 align="center">I am a Full stack java software engineer.</h3>
 
 **ephraimGethi/ephraimGethi** ✨ _Quick Details_ ✨ 
 
-- 🔭 I’m currently working on JavaScript
-- 🌱 I’m currently learning NodeJS and Express JS
+- 🔭 I’m currently working on Java and springBoot
 <hr>
 <hr>
 
