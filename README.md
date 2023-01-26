@@ -65,10 +65,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/ephraimGethi/github-readme-stats"><img alt="ephraimGethi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ephraimGethi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
   <br/>
    <hr>         
- <a href="https://github.com/ephraimGethi/github-readme-stats"><img alt="ephraimGethi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephraimGethi&langs_count=8&count_private=true&layout=radical&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+
 <p/>
-   <br/>
+  
 
 
-<br/>
-<br/>
+
