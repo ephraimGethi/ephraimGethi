@@ -5,11 +5,11 @@
 Here are some ideas to get you started:
 
 --!>
-<h3 align="center">I am a Full stack java and Python software engineer.</h3>
+<h3 align="center">I am a Backend Python(Django) software engineer.</h3>
 
 **ephraimGethi/ephraimGethi** ✨ _Quick Details_ ✨ 
 
-- 🔭 I’m currently working on springboot and Django
+<h3>- 🔭 I’m currently working on Django,DjangoRestFramework,DjangoNinja</h3>
 <hr>
 <hr>
 
