@@ -34,28 +34,3 @@ Here are some ideas to get you started:
 
 <hr>
 <hr>
-
-
-
-## 📊 My Github Stats
-
-<br/>
-<p align="center">
-        <h3> Ephraim Gethi's Contributions <h3/>
-    <a href="https://github.com/ephraimGethi/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ephraimGethi streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ephraimGethi&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-
-<br/>
-            <hr>
-
-  <br/>
-  
-  <a href="https://github.com/ephraimGethi/github-readme-stats"><img alt="ephraimGethi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ephraimGethi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a> 
-  <br/>
-   <hr>         
-
-<p/>
-  
-
-
-
