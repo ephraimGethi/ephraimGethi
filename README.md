@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 --!>
-<h3 align="center">I am a Backend Python(Django) software engineer.</h3>
+<h3 align="center">I am a Fullstack Python(Django) ReactJs software engineer.</h3>
 
 **ephraimGethi/ephraimGethi** ✨ _Quick Details_ ✨ 
 
