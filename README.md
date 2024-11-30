@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 **ephraimGethi/ephraimGethi** ✨ _Quick Details_ ✨ 
 
-<h3>- 🔭 I’m currently working on Django,DjangoRestFramework,DjangoNinja</h3>
+<h3>- 🔭 I’m currently working on Django,DjangoRestFramework,Javascript and ReactJs framework</h3>
 <hr>
 <hr>
 
