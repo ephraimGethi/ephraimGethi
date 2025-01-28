@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 
 --!>
 <h3 align="center">I am a Fullstack Python(Django) ReactJs software engineer.</h3>
+<h3>PYTHON DJANGO DJANGO REST FRAMEWORK REACT JS TYPESCRIPT HTML5 CSS3 SASS SCSS BOOTSTRAP </h3>
 
 **ephraimGethi/ephraimGethi** ✨ _Quick Details_ ✨ 
 
