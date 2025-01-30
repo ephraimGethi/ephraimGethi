@@ -27,11 +27,8 @@ Here are some ideas to get you started:
     <a href="https://www.djangoproject.com/" target="_blank"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
     </a> 
-    <a href="https://www.django-rest-framework.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django-rest-framework" width="40" height="40"/> 
-    </a> 
-    <a href="https://sass-lang.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+     <a href="https://www.django-rest-framework.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/drf-logo.png" alt="django-rest-framework" width="120" height="40"/>
     </a> 
     <a href="https://sass-lang.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="40" height="40"/> 
