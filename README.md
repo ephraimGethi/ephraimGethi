@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 <h3 align="center">I am a Fullstack Python(Django) ReactJs software engineer.</h3>
 <h3>PYTHON | DJANGO | DJANGO REST FRAMEWORK | JAVASCRIPT | REACT JS | TYPESCRIPT | REDUX | HTML5 | CSS3 | SASS | SCSS | BOOTSTRAP | DOCKER AND CONTAINERIZATION </h3>
 <h4>DOCKER HUB: https://hub.docker.com/u/ephraimgethi </h4>
+<h4>Live Projects: https://ephraimgethiadminapp.vercel.app</h4>
+
 
 
 **ephraimGethi/ephraimGethi** ✨ _Quick Details_ ✨ 
