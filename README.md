@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <h4>DOCKER HUB: https://hub.docker.com/u/ephraimgethi </h4>
 <h4>LinkedIn: linkedin.com/in/ephraim-gethi-227077241 </h4>
 
-<h4>Live Projects: https://ephraimgethiadminapp.vercel.app || https://ephraimfoodordering.vercel.app || https://ephraimgethiyoutubefrontend.vercel.app || https://eph-cryptoplace-system-with-coingecko-apis.vercel.app/ || https://ephraimnetflixprojectclonefrontend.vercel.app/ || https://ephraimonlinemarket.vercel.app/blog</h4>
+<h4>Live Projects: https://ephraimgethiadminapp.vercel.app || https://ephraimfoodordering.vercel.app || https://ephraimgethiyoutubefrontend.vercel.app || https://eph-cryptoplace-system-with-coingecko-apis.vercel.app/ || https://ephraimnetflixprojectclonefrontend.vercel.app/ || https://ephraimonlinemarket.vercel.app</h4>
 
 
 
